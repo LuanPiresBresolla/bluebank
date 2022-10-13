@@ -25,7 +25,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 $ git clone https://github.com/LuanPiresBresolla/bluebank
 # ou use a opção de download.
 
-# Entre na pasta web com
+# Entre na pasta do projeto com
 $ cd bluebank
 ```
 
